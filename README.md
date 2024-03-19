@@ -2,8 +2,7 @@
 <h3 align="left">I am a Full-stack Developer, living in Paris, France.</h3>
 
 - 🔭 I’m currently working on [Ypson's](ypsons.fr)
-
-- 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
+- 🌱 I’m improving my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 - 📚 I'm learning: Solidity and smart contracts security.
 
 My bootcamp projects :
