@@ -1,16 +1,16 @@
 <h1 align="left">Hi 👋, I'm Pedro</h1>
 <h3 align="left">I am a Full-stack Developer, living in Paris, France.</h3>
 
-- 🔭 I’m currently working on [Ypson's](ypsons.fr)
+- 🔭 I’m currently working on [Ypson's](www.ypsons.fr)
 - 🌱 I’m improving my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 - 📚 I'm learning: Solidity and smart contracts security.
 
 My bootcamp projects :
 
-[Better place](https://github.com/Pedrog75/better_place) : A platform connecting individuals with artisans for housing renovations.
-[Cars vintage](https://github.com/Pedrog75/cars-vintage) : an Airbnb clone.
+- [Better place](https://github.com/Pedrog75/better_place) : A platform connecting individuals with artisans for housing renovations.
+- [Cars vintage](https://github.com/Pedrog75/cars-vintage) : an Airbnb clone.
 
-- 📫 How to reach me **pedrogomespinto@gmail.com**
+📫 How to reach me **pedrogomespinto@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
