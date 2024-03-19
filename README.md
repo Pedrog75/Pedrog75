@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pedro</h1>
 <h3 align="left">I am a Full-stack Developer, living in Paris, France.</h3>
 
-- 🔭 I’m currently working on [Ypson's](www.ypsons.fr)
+- 🔭 I’m currently working on [Ypson's](www.ypsons.fr).
 - 🌱 I’m improving my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 - 📚 I'm learning: Solidity and smart contracts security.
 
