@@ -5,14 +5,14 @@
 - 🌱 I’m improving my skills on Ruby, Ruby on Rails, CSS and JavaScript.
 - 📚 I'm learning: Solidity and smart contracts security.
 
-My bootcamp projects :
+My bootcamp projects:
 
-- [Better place](https://github.com/Pedrog75/better_place) : A platform connecting individuals with artisans for housing renovations.
-- [Cars vintage](https://github.com/Pedrog75/cars-vintage) : an Airbnb clone.
+- [Better place](https://github.com/Pedrog75/better_place): A platform connecting individuals with artisans for housing renovations.
+- [Cars vintage](https://github.com/Pedrog75/cars-vintage): an Airbnb clone.
 
-<h4 align="left">Books and articles I'm reading</h4>
-- [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC)
-- [I am a puts debuggerer](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
+Books and articles I'm reading:
+- [Ry's Git Tutorial](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC).
+- [I am a puts debuggerer](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html).
 
 📫 How to reach me **pedrogomespinto@gmail.com**
 
